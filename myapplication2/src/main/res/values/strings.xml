@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="delete">Effacer tout</string>
+    <string name="dialog_message">êtes-vous sûr de vouloir tout effacer?</string>
+    <string name="dialog_title">ATTENTION</string>
+    <string name="ok">Oui</string>
+    <string name="cancel">Non</string>
+</resources>
