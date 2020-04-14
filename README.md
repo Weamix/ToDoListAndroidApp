@@ -1,3 +1,3 @@
 # ✅ ToDoListAndroidApp
 
-[img]https://i.ibb.co/2P9KRhH/todolistandroid.png[/img]
+![ToDoListAndroidApp](https://i.ibb.co/2P9KRhH/todolistandroid.png)
